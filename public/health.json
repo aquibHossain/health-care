@@ -1,0 +1,44 @@
+[
+  {
+    "id":1,
+    "service": "X-ray",
+    "cost": 1000,
+    "img": "https://i.ibb.co/yhT27HF/xray.jpg",
+    "description": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. The images show the parts of your body in different shades of black and white. ... The most familiar use of x-rays is checking for fractures (broken bones), but x-rays are also used in other ways"
+  },
+  {
+    "id":2,
+    "service": "Kidney Test",
+    "cost": 1500,
+    "img": "https://i.ibb.co/KK93PW6/Doctor-close-up-of-a-doctor-showing-a-picture-of-a-kidney-on-a-tablet-in-a-hospital.jpg",
+    "description": "kidney function test, any clinical and laboratory procedure designed to evaluate various aspects of renal (kidney) capacity and efficiency and to aid in the diagnosis of kidney disorders. Such tests can be divided into several categories, which include (1) concentration and dilution tests, whereby the specific gravity of urine is determined at regular time intervals following water restriction or large water intake, to measure the capacity of the kidneys to conserve water ways"
+  },
+  {
+    "id":3,
+    "service": "Ultrasonography",
+    "cost": 3200,
+    "img": "https://i.ibb.co/3BTSqHY/Ultrasonography-of-Baby.jpg",
+    "description": "Ultrasonography uses high-frequency sound (ultrasound) waves to produce images of internal organs and other tissues. A device called a transducer converts electrical current into sound waves, which are sent into the body’s tissues. Sound waves bounce off structures in the body and are reflected back to the transducer, which converts the waves into electrical signals. A computer converts the pattern of electrical signals into an image, which is displayed on a monitor and recorded as a digital computer image. No x-rays are used, so there is no radiation exposure during an ultrasonography."
+  },
+  {
+    "id":4,
+    "service": "Echoencephalography",
+    "cost": 4000,
+    "img": "https://i.ibb.co/5T6MRR2/for-a-scientific-experiment-a-girl-is-connected-with-cables-to-a-computer-EEG-for-research.jpg",
+    "description": "echoencephalography, method for detecting abnormalities within the cranial cavity, based on the reflection of high-frequency sound pulses delivered to the head through a probe held firmly to the scalp. The reflected pulses from the skin, brain ventricle, skull, and other head structures are recorded and amplified with a cathode-ray oscilloscope, giving a measure of the distance between the probe and the reflecting surfaces ways"
+  },
+  {
+    "id":5,
+    "service": "CT scan",
+    "cost": 2800,
+    "img": "https://i.ibb.co/8sSyQGb/ct-scan.jpg",
+    "description": "Computed tomography (CT) scan is a useful diagnostic tool for detecting diseases and injuries. It uses a series of X-rays and a computer to produce a 3D image of soft tissues and bones. CT is a painless, noninvasive way for your healthcare provider to diagnose conditions"
+  },
+  {
+    "id":6,
+    "service": "Blood test",
+    "cost": 2500,
+    "img": "https://i.ibb.co/ZL8tkyD/Blood-Test-Blood-Medical-Sample-Test-Tube.jpg",
+    "description": "A blood test usually involves taking a blood sample from a blood vessel in your arm.The arm is a convenient part of the body to use because it can be easily uncovered. The usual place for a sample to be taken from is the inside of the elbow or wrist, where the veins are relatively close to the surface."
+  }
+]
