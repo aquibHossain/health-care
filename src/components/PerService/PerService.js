@@ -8,7 +8,7 @@ const PerService = () => {
     const {perId}=useParams();
    console.log(perId);
     useEffect(()=>{
-        fetch(`http://warm-island-11598.herokuapp.com/services/${perId}`)
+        fetch(`https://warm-island-11598.herokuapp.com/services/${perId}`)
         .then(res=>res.json())
         .then(data=>{console.log("data",data);
             setServices(data)})
